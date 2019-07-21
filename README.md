@@ -1,6 +1,6 @@
 # Octal_And_Binary_To_Decimal
 .
-I have tried to convert octal and binary bases into decimal base. For hexadecimal base it may work with some cases and it may not work with some cases. If you can fix this, then ok. Let me know. I am also trying to fix that. 
+I have tried to convert octal and binary bases into decimal base. For hexadecimal base it may work with some cases and it may not work with some cases. If you can fix this, then ok. Let me know. I am also trying to fix that. I wrote and uploaded this code on a mobile app. So remove the (.py3) extentention and make it (.py) 
 .
 To get expected output follow the instructions below. 
 - Firstly input contains the number of cases.
